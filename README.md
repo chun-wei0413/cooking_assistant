@@ -1,3 +1,6 @@
+# Intro
+[Langchain](docs/langchain.md)
+
 # 烹飪對話助手
 
 這是一個使用 LangChain 構建的簡單烹飪對話助手，能夠回答烹飪相關問題並記住對話上下文。
